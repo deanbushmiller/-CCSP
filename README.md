@@ -1,7 +1,9 @@
 # CCSP
-* For O'Reilly students current files are in the meta folder. You may download them individually or click the code button above and download all files as one zip.
+* For O'Reilly students current files are in the MM folder. You may download them individually or click the code button above and download all files as one zip.
+* there is a password only given in class
 * For Errata as of 20221221 all updates are in current videos.
-## 3 hour class links
+## 4 hour class links
+### Exercise 1
 * https://docs.bitnami.com/
 * https://www.cloudways.com/en/
 * https://www.twilio.com/docs
@@ -9,6 +11,7 @@
 * https://skills.practice-labs.com/
 * https://meraki.cisco.com/
 * https://www.6clicks.com/
+### Resources for after class
 * https://standards.iso.org/ittf/PubliclyAvailableStandards/c060545_ISO_IEC_17789_2014.zip
 * https://learning.oreilly.com/videos/ccsp-certified-cloud/9780996619165/
 * https://learning.oreilly.com/playlists/ecc9edd0-3b49-4d67-92cf-606b5c388db1/
