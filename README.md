@@ -12,7 +12,8 @@
 * https://meraki.cisco.com/
 * https://www.6clicks.com/
 ### Resources for after class
-* https://standards.iso.org/ittf/PubliclyAvailableStandards/c060545_ISO_IEC_17789_2014.zip
+* https://ccsp.alukos.com/standards/iso-iec-17789-2014/
+* https://www.nist.gov/publications/nist-sp-500-291-nist-cloud-computing-standards-roadmap
 * https://learning.oreilly.com/videos/ccsp-certified-cloud/9780996619165/
 * https://learning.oreilly.com/playlists/ecc9edd0-3b49-4d67-92cf-606b5c388db1/
 * https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2/
