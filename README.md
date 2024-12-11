@@ -1,4 +1,5 @@
 # CCSP
+* For people watching the video recordings (not class recordings)- there are materials on this github that are not for you. If you are encountering the password that you do not have, this is not part of your resources.
 * For O'Reilly students current files are in the MM folder. You may download them individually or click the code button above and download all files as one zip.
 * there is a password only given in class
 * For Errata as of 20221221 all updates are in current videos.
