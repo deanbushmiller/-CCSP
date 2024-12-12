@@ -1,6 +1,7 @@
 # CCSP
-* For O'Reilly students current files are in the MM folder. You may download them individually or click the code button above and download all files as one zip.
-* there is a password only given in class
+* For people watching the video recordings (these are different from live class recordings)- there are materials on this github that are not for you. If you encounter a password request that you do not have, this means it is not part of your resources.
+* For O'Reilly live students, current files are in folders. You may download them individually or click the code button above and download all files as one zip.
+* There is a password that is only given in live class.
 * For Errata as of 20221221 all updates are in current videos.
 ## 4 hour class links
 ### Exercise 1
